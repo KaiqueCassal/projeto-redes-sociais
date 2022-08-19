@@ -23,16 +23,17 @@ section#celular{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
-    width: 311px;
-    background: url("../imagens/frame-iphone.png") no-repeat;
+    height: 560px;
+    width: 384px;
+    background: url("../imagens/celular.png") no-repeat;
 }
 iframe#tela{
     position: relative;
-    top: 80px;
-    left: 21.99px;
-    width: 267px;
-    height: 471px;
+    top: 40px;
+    left: 55px;
+    width: 187px;
+    height: 373px;
+    border-radius: 10px;
 }
 section#sociais{
     text-align: right;

@@ -23,20 +23,21 @@ section#celular{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 560px;
-    width: 384px;
-    background: url("../imagens/celular.png") no-repeat;
+    height: 620px;
+    width: 425px;
+    background: url("../imagens/frame-celular.png") no-repeat;
 }
 iframe#tela{
     position: relative;
-    top: 40px;
-    left: 55px;
-    width: 187px;
-    height: 373px;
-    border-radius: 10px;
+    top: 43px;
+    left: 60px;
+    width: 207px;
+    height: 415px;
+    border-radius: 4%;
 }
 section#sociais{
     text-align: right;
+    padding: 5%;
 }
 section#sociais img{
     width: 50px;
